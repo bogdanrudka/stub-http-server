@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "baseURL": "workbench",
+    "port": 8888
+  },
+  "mappings": [
+    {
+      "request": {
+        "method": "GET",
+        "path": "path"
+      },
+      "response": {
+        "status": 200,
+        "contentType": "",
+        "body": "This is a response body",
+        "header": {}
+      }
+    }
+  ]
+}
